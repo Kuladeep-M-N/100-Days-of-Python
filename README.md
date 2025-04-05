@@ -9,6 +9,7 @@ I'm dedicating the next 100 days to learning Python by building projects, solvin
 * Share what I learn every day
 
 Feel free to follow along, give feedback, or use this repo as inspiration for your own journey!
+
 [Click here to follow me on Twitter](https://twitter.com/@kulade_p13)
 
 
