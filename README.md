@@ -34,13 +34,13 @@ I'm dedicating the next 100 days to learning Python by **building projects, solv
 
 ## 📅 Progress
 - ✅ [Day 1: Band Name Generator](DAY01/BAND_NAME_GENERATOR.py)  
-- ✅ [Day 2: Tip Calculator](./Day02/main.py)  
-- ✅ [Day 3: Treasure Island](./Day03/main.py)  
-- ✅ [Day 4: Rock Paper Scissors](./Day04/main.py)  
-- ✅ [Day 5: Password Generator](./Day05/main.py)  
-- ✅ [Day 6: Love Calculator](./Day06/main.py)  
-- ✅ [Day 7: Hangman](./Day07/main.py)  
-- ✅ [Day 8: Caesar Cipher](./Day08/main.py)  
+- ✅ [Day 2: Tip Calculator](DAY02/TIP_CALCULATOR.py)  
+- ✅ [Day 3: Treasure Island](DAY03/TREASURE_ISLAND_PROJECT.py)  
+- ✅ [Day 4: Rock Paper Scissors](DAY04/ROCK_PAPER_AND_SCISSORS.py)  
+- ✅ [Day 5: Password Generator](DAY05/PASSWORD_GENERATOR.py)  
+- ✅ [Day 6: Love Calculator](DAY06/LOVE_CALCULATOR.py)  
+- ✅ [Day 7: Hangman](DAY07/HANGMAN_PROJECT.py)  
+- ✅ [Day 8: Caesar Cipher](DAY08/CAESAR_CIPHER_PROJECT.py)  
 - 🔲 Day 9 → Coming soon...  
 
 ---
