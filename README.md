@@ -16,7 +16,7 @@ I'm dedicating the next 100 days to learning Python by **building projects, solv
 ---
 
 ## 🌐 Connect with Me
-🐦 [Follow me on Twitter](https://twitter.com/your_twitter_username)  
+🐦 [Follow me on Twitter]([https://twitter.com/your_twitter_usernam](https://x.com/kulade_p13))  
 
 ---
 
