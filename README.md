@@ -33,7 +33,7 @@ I'm dedicating the next 100 days to learning Python by **building projects, solv
 ---
 
 ## 📅 Progress
-- ✅ [Day 1: Band Name Generator](./Day01/main.py)  
+- ✅ [Day 1: Band Name Generator](DAY01/BAND_NAME_GENERATOR.py)  
 - ✅ [Day 2: Tip Calculator](./Day02/main.py)  
 - ✅ [Day 3: Treasure Island](./Day03/main.py)  
 - ✅ [Day 4: Rock Paper Scissors](./Day04/main.py)  
